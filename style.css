@@ -1,0 +1,19 @@
+button{
+	 width: 300px; 
+      height:300px;
+      background-color: black; 
+      color: white; 
+      border: none; 
+      border-radius: 50%; 
+      font-size: 16px; 
+      cursor: pointer; 
+      margin-top: 200px    ;
+ margin-left: 500px; 
+     background-image: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1612850562_77-p-kapli-na-krasnom-fone-123.jpg');
+
+ 		}	
+ body {
+  background-image: url("https://img5.goodfon.ru/wallpaper/original/e/65/ostrov-palmy-bungala-bassein-laguna-kurort-okean-maldivy-mal.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
